@@ -65,8 +65,6 @@ class EmacsPlusAT28 < EmacsBase
   #
 
   url "https://github.com/emacs-mirror/emacs.git", :revision => '0afab352e02d7070a8ced2af53c1d01217400cdf'
-  #head 'https://github.com/emacs-mirror/emacs.git', :using => :git, :tag => '1.2.x'
-
 
   #
   # Icons
